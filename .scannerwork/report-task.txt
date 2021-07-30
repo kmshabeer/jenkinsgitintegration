@@ -1,6 +1,6 @@
-projectKey=firstsnar
+projectKey=seconddemo
 serverUrl=http://localhost:9000
 serverVersion=8.9.0.43852
-dashboardUrl=http://localhost:9000/dashboard?id=firstsnar
-ceTaskId=AXmN_xLLCpiL5LnxtF26
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXmN_xLLCpiL5LnxtF26
+dashboardUrl=http://localhost:9000/dashboard?id=seconddemo
+ceTaskId=AXqEcarEBDeRNGl47RRj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXqEcarEBDeRNGl47RRj
